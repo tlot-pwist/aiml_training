@@ -1,0 +1,1 @@
+fruits=['durian','manggis','rambutan','salak','jambu','betik','mempelam','nanas','anggur','kiwi']
