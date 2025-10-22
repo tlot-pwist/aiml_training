@@ -13,8 +13,10 @@ def biggest_of_three(a, b, c):
         biggest=c
     return biggest
 
-num1,num2,num3=map(int, input('enter 3 numbers with spcae between them: ').split())
+num1,num2,num3=map(int, input('enter 3 numbers with space between them: ').split())
 print(f'the biggest number is: {biggest_of_three(num1,num2,num3)}')
+
+
 
 
     
